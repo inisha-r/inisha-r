@@ -1,5 +1,5 @@
 👋 Hi, I'm **Inisha Sallove R**
-Aspiring IT Specialist / Developer
+Aspiring Data Specialist / Machine Learning / Artificial Intelligence 
 
 I am an enthusiastic IT student with a focus on gaining knowledge and practical experience in frontend development, data science, and machine learning. Currently pursuing a B.Tech. in Information Technology at National Engineering College, Kovilpatti, I am driven to continuously learn and grow in the field of technology. I have completed multiple internships and projects that showcase my passion for solving real-world problems through innovation.
 
