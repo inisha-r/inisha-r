@@ -22,29 +22,19 @@ National Engineering College, Kovilpatti, India
 
 CGPA: 8.6 (Upto VI Semester) (2021 - Present)
 
-Higher Secondary Education
-
-Holy Cross Anglo Indian Higher Secondary School, Thoothukudi
-
-Percentage: 92.3% (2019 - 2021)
-
 **💼 Internships**
 
-Industrial Oriented Course on Oracle Technologies
+**Industrial Oriented Course on Oracle Technologies**
 
 Completed a 15-week internship focused on SQL, PLSQL, and Oracle Apex.
 
-Frontend Developer, Coderzbot Innovations
-
-Developed user interfaces using Flutter for web applications.
-
-Internship on Generative AI, Pantech E Learning
+**Internship on Generative AI, Pantech E Learning**
 
 Participated in a 4-week online internship to explore generative AI technologies.
 
 **💡 Projects**
 
-Air Board
+**Air Board**
 
 Developed a Python-based virtual whiteboard that tracks hand gestures through the camera.
 
@@ -52,7 +42,7 @@ Implemented handwriting recognition to turn gestures into text and provided comm
 
 This interactive tool can be used for online learning and creative applications.
 
-Chatbot
+**Chatbot**
 
 Built a rule-based chatbot using Python and TensorFlow for a college website to enhance user experience.
 
