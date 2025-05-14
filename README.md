@@ -2,7 +2,7 @@
 
 **Aspiring Data Scientist | Machine Learning & AI Enthusiast | Flutter Developer**
 
-📍 Thoothukudi, India  
+📍 India  
 📧 [inishasallove@gmail.com](mailto:inishasallove@gmail.com)  
 📞 +91 9585665035  
 🔗 [LinkedIn: inisha-r](https://www.linkedin.com/in/inisha-r/) | [GitHub: inisha-r](https://github.com/inisha-r)
