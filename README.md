@@ -1,63 +1,58 @@
-👋 Hi, I'm **Inisha Sallove R**
+# 👩‍💻 Inisha Sallove R
 
-Aspiring Data Specialist / Machine Learning / Artificial Intelligence 
+**Aspiring Data Scientist | Machine Learning & AI Enthusiast | Flutter Developer**
 
-I am an enthusiastic IT student with a focus on gaining knowledge and practical experience in frontend development, data science, and machine learning. Currently pursuing a B.Tech. in Information Technology at National Engineering College, Kovilpatti, I am driven to continuously learn and grow in the field of technology. I have completed multiple internships and projects that showcase my passion for solving real-world problems through innovation.
+📍 Thoothukudi, India  
+📧 [inishasallove@gmail.com](mailto:inishasallove@gmail.com)  
+📞 +91 9585665035  
+🔗 [LinkedIn: inisha-r](https://www.linkedin.com/in/inisha-r/) | [GitHub: inisha-r](https://github.com/inisha-r)
 
-**🛠️ Skills & Tools**
+---
 
-Programming Languages: C, C++, Python, Flutter, Flutter, Dart
+## 🚀 About Me
 
-Technologies: Flutter (Frontend Development), Microsoft Power BI, Tableau, SQL, PLSQL, Oracle Apex
+I am an enthusiastic and self-driven IT undergraduate with a keen interest in Data Science, Machine Learning, and Mobile Development. Pursuing B.Tech. in Information Technology with Honors in Data Science at National Engineering College, Kovilpatti, I strive to leverage technology to solve real-world challenges. I have hands-on experience through internships and impactful projects involving analytics, AI, and cross-platform mobile development.
 
-Development Tools: Git/GitHub, VS Code
+---
 
-Areas of Interest: Flutter UI Development, Data Science, Analytics, Machine Learning
+## 🛠️ Skills & Tools
 
-**📚 Education**
+**Languages:**  
+C, C++, Python, Dart
 
-B.Tech. in Information Technology
+**Frameworks & Libraries:**  
+Flutter, TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost
 
-National Engineering College, Kovilpatti, India
+**Data Tools:**  
+Microsoft Power BI, Tableau, Oracle APEX, MySQL, PostgreSQL, MongoDB
 
-CGPA: 8.6 (Upto VI Semester) (2021 - Present)
+**Developer Tools:**  
+Git, GitHub, VS Code, Jupyter Notebook, Streamlit
 
-**💼 Internships**
+**Areas of Interest:**  
+- Data Science & Analytics  
+- Machine Learning & Deep Learning  
+- Flutter UI Development  
+- Generative AI
 
-**Industrial Oriented Course on Oracle Technologies**
+---
 
-Completed a 15-week internship focused on SQL, PLSQL, and Oracle Apex.
+## 🎓 Education
 
-**Internship on Generative AI, Pantech E Learning**
+**B.Tech. in Information Technology (Honors in Data Science)**  
+National Engineering College, Kovilpatti  
+*2021 - 2025* | CGPA: **8.5**
 
-Participated in a 4-week online internship to explore generative AI technologies.
+---
 
-**💡 Projects**
+## 💼 Experiences
 
-**Air Board**
+### 📊 Delivery Data Analyst Intern – *Turing*  
+*June 2024 – Present*  
+- Evaluate LLM responses using SFT & RLHF methodologies  
+- Focus on model accuracy, safety, and contextual relevance  
 
-Developed a Python-based virtual whiteboard that tracks hand gestures through the camera.
-
-Implemented handwriting recognition to turn gestures into text and provided commands for undo, redo, and erase.
-
-This interactive tool can be used for online learning and creative applications.
-
-**Chatbot**
-
-Built a rule-based chatbot using Python and TensorFlow for a college website to enhance user experience.
-
-**🎖️ Certifications**
-
-Linguaskill English Proficiency - Cambridge English University
-
-Python for Data Science - IIT Madras
-
-**📫 Contact Me**
-
-Email: inishasallove19@gmail.com
-
-LinkedIn: inisha-r
-
-Portfolio: GitHub - inisha-r
-
-Feel free to explore my projects and connect with me for any collaboration or discussions around technology, development, and data science!
+### 🤖 Generative AI Intern – *Pantech E Learning*  
+*Jan 2024 – Feb 2024*  
+- Explored foundational Generative AI concepts  
+- Applied AI tools
